@@ -1,6 +1,6 @@
 # 💫 About Me:
 I have completed Java full stack Internship on Kodnest, Banglore.<br>Currently I'm looking for an IT role to enhance and upgrade my skills with live project.<br>And I'm also learnt MERN stack with help of YouTube source.
-<img align="center" alt="Coding" width="400" style="z-index: 10000;" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
+<img align="center" alt="Coding" width="400" style="display:absolute;" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
 
 <br><br><br><br>
 ## 🌐 Socials:

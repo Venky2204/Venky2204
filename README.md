@@ -2,9 +2,6 @@
 
  I have completed Java full stack Internship on Kodnest, Banglore.<br>Currently I'm looking for an IT role to enhance and upgrade my skills with live project.<br>And I'm also learnt MERN stack with help of YouTube source.
  
- <div style="display:flex;flex-direction:column;height:auto">
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/ style="z-index:1000;">
- </div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__mister__venky__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](httpsa://www.linkedin.com/in/venkatesh-pothuraju-1413861b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/VSmart2210?s=09) [![Hackerrank](https://img.shields.io/badge/HackerRank-%39FF14.svg?logo=Hackerrank&logoColor=white)](https://www.hackerrank.com/profile/mahatma489)
